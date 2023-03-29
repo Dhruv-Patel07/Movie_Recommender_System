@@ -1,0 +1,1 @@
+download the similarity.pkl file after executing pickle.dump in .ipynb file
